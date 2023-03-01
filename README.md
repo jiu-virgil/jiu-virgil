@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**jiu-virgil/jiu-virgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Constantin Virgil, a software developer with experience in Web & Application Development and Design. I'm passionate about creating efficient, user-friendly applications that make people's lives easier.
 
-Here are some ideas to get you started:
+### Technologies which I'm familiar with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web development** with SvelteKit, Vue, Express, SCSS, Bootstrap, TailwindCSS, Prisma, any SQL database and multiple public apis.
+- **Desktop applications*** development with Python and C#'s WPF
+- **Web scraping** using Selenium and BeautifulSoup4 in both Python and C#.
+
+### My socials
+
+- [LinkedIn](https://www.linkedin.com/in/jiu-virgil/)
+- [Email](mailto:jiuvirgil@gmail.com)
